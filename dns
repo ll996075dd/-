@@ -1,5 +1,9 @@
 #国外分流
 [/youtube.com/]https://cloudflare-dns.com/dns-query
+[/telegram.com/]https://cloudflare-dns.com/dns-query
+[/github.com/]https://cloudflare-dns.com/dns-query
 #国内分流
 [/*.cn/]https://dns.alidns.com/dns-query
+[/qq.com/]https://doh.pub/dns-query
+[/bilibili.com/]https://doh.pub/dns-query
 [/bilibili.com/]https://dns.alidns.com/dns-query
